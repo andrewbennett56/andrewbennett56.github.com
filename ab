@@ -1,0 +1,57 @@
+<html>
+    <head>
+
+    	<style>
+    		body {
+               background: url('abgb.jpg')no-repeat center center fixed; 
+                  -webkit-background-size: cover;
+                  -moz-background-size: cover;
+                  -o-background-size: cover;
+                  background-size: cover;
+            }
+            h1  {
+                color:white;
+                font-family: 'Helvetica Neue', Helvetica;
+                font-weight: 100;
+                font-size: 60px;
+                margin: 0px;
+            }
+
+            p {
+                color:white;
+                font-family: 'Helvetica Neue', Helvetica;
+                font-weight: 200;
+            }
+            .box {
+                background-color: rgba(0,0,0,0.5);
+                padding: 20px;
+                width: 400px;
+                margin: 10px auto;
+                text-align: center;
+            }
+    	</style>
+    </head>
+
+    <body>
+        <div class="box">
+        	<h1>Andrew Bennett</h1>
+
+        	<p>
+        		<i>Web Developer</i>
+        	</p>
+
+        	<p>
+        		Surfer and Web development student. Living to surf the best waves in the world and to run my own successful business. 
+        	</p>
+
+            <br />
+
+            <a href="https://www.linkedin.com/profile/view?id=216176888&trk=hp-identity-name">
+                <img src="linkedin.png"/>
+            </a>
+
+        </div>
+    
+    </body>
+
+</html>
